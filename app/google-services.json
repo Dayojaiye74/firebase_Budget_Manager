@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94837665910",
+    "firebase_url": "https://manage-all-bugdet.firebaseio.com",
+    "project_id": "manage-all-bugdet",
+    "storage_bucket": "manage-all-bugdet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94837665910:android:f81b1ebead4eeb4912af57",
+        "android_client_info": {
+          "package_name": "com.dev_app.managebugdet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94837665910-kadf982qn0li96gkj5a0ip0blsfd3n61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dev_app.managebugdet",
+            "certificate_hash": "cbdf2126dc96532dcbbc2ee0aefd5433d2b61561"
+          }
+        },
+        {
+          "client_id": "94837665910-cp8v4ogjo0mnfjtettqjsef4tu08nv33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxLZ1bq4JXKpvMvDqXnTA99Pu5D9uyrpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94837665910-cp8v4ogjo0mnfjtettqjsef4tu08nv33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
